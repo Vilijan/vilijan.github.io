@@ -2,7 +2,7 @@
 layout: post
 title: "Approaching the MoA tabular data competition on Kaggle"
 subtitle: "Solution that achieves medal zone placement on a tabular data Kaggle competition."
-date: 2020-12-31
+date: 2021-01-03
 background: '/img/posts/post-01-moa/background.jpg'
 ---
 
