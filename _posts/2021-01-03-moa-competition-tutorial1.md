@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Approaching the MoA tabular data competition on Kaggle"
+title: "Approaching tabular data problem using bagging and stacking ensemble methods"
 subtitle: "Solution that achieves medal zone placement on a tabular data Kaggle competition."
 date: 2021-01-03
 background: '/img/posts/post-01-moa/background.jpg'
